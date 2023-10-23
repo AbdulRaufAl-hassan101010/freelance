@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/bonifytech/static/js/main.2dfe11dc.js",
+    "static/js/787.4ca3dacb.chunk.js": "/bonifytech/static/js/787.4ca3dacb.chunk.js",
+    "static/media/hero.jpg": "/bonifytech/static/media/hero.a00cac4f08c6b73893d4.jpg",
+    "static/media/contact.gif": "/bonifytech/static/media/contact.b996fbb7ae2e1661be1e.gif",
+    "static/media/bubbles.gif": "/bonifytech/static/media/bubbles.79a6f4ace8a3401ca777.gif",
+    "static/media/team.png": "/bonifytech/static/media/team.aee23321bfef960cbaeb.png",
+    "static/media/hero1.png": "/bonifytech/static/media/hero1.cc728f2e1293959969d9.png",
+    "index.html": "/bonifytech/index.html",
+    "main.2dfe11dc.js.map": "/bonifytech/static/js/main.2dfe11dc.js.map",
+    "787.4ca3dacb.chunk.js.map": "/bonifytech/static/js/787.4ca3dacb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2dfe11dc.js"
+  ]
+}
